@@ -1,6 +1,6 @@
 Hi, I’m Anna
 
-I’m a web developer who focuses on building digital experiences that are enjoyable to use.
+I’m a web developer who builds digital experiences that are enjoyable to use.
 
 🎮 I’m also exploring **game development**
 
